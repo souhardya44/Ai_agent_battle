@@ -1,0 +1,3 @@
+# Runtime: Python standard library only
+# Report generation: reportlab
+reportlab>=4.0
